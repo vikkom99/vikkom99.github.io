@@ -1,0 +1,31 @@
+body{
+    background-image: linear-gradient(to left, rgba(121, 97, 97, 0), rgb(160, 69, 69));
+}
+
+#info-border {
+    width: 600px;
+    height: 80px;
+    border-radius: 5px;
+}
+
+#book-border {
+    width: 600px;
+    height: 50px;
+    border-radius: 5px;
+}
+.submit{
+    background-color: greenyellow;
+    border: none;
+    cursor: pointer;
+}
+input{
+    text-align: center;
+    border: none;
+
+}
+input:focus {
+    background-color: lightgreen;
+  }
+  
+  
+
